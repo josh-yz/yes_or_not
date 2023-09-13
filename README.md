@@ -1,16 +1,17 @@
-# yes_or_not
+# Flutter Chat Application
 
-A new Flutter project.
+This is a simple chat application developed in Flutter that uses the "https://yesno.wtf/api" API to get real-time yes or no answers.
 
-## Getting Started
+## Description
 
-This project is a starting point for a Flutter application.
+The chat application allows users to send a question mark ("?") to the API server and receive a random response of yes, no, or maybe. It is a simple demonstration application to showcase how Flutter can interact with an external API and display results in real-time in a chat interface.
 
-A few resources to get you started if this is your first Flutter project:
+## Screenshots
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![Screenshot 1](screenshot1.jpeg)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Usage
+
+To use the application, follow these steps:
+
+1. Clone this repository to your local machine:
